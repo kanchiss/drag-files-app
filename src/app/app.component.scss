@@ -1,0 +1,35 @@
+.container{
+  margin: 2rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.display-center {
+  width: 100%;
+  text-align: center;
+  height: 6rem;
+  background: #efefef;
+  display: grid;
+  align-items: center;
+  margin: 10px;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+.dropHere {
+  color: #403c3c;
+  font-size: x-large;
+  padding: 10px;
+}
+
+.deleteButton {
+  color: #fff;
+  /* font-size: x-large; */
+  margin: 10px;
+  border-radius: 5px;
+  background-color: #403c3c;
+}
